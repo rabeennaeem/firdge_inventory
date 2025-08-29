@@ -1,0 +1,1118 @@
+{
+  "recipes": [
+  {
+    "id": 1,
+    "name": "Classic Greek Salad (Horiatiki)",
+    "description": "A cornerstone of the Mediterranean diet, packed with antioxidants, healthy fats, and fiber. Recommended by doctors for heart health.",
+    "image": "/img/greek-salad.jpg",
+    "country": "Greece",
+    "cookTime": "15 mins",
+    "servings": 2,
+    "ingredients": [
+      "1 large cucumber, chopped",
+      "2 large tomatoes, chopped",
+      "1 green bell pepper, sliced",
+      "1/2 red onion, thinly sliced",
+      "1/2 cup Kalamata olives",
+      "4 oz (115g) block feta cheese, cubed",
+      "2 tbsp extra virgin olive oil",
+      "1 tbsp fresh lemon juice",
+      "1 tsp dried oregano",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine the cucumber, tomatoes, green pepper, red onion, and olives.",
+      "Gently add the cubed feta cheese.",
+      "In a small bowl, whisk together the olive oil, lemon juice, oregano, salt, and pepper.",
+      "Pour the dressing over the salad and toss gently to combine.",
+      "Serve immediately with whole-grain bread."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lentil and Spinach Soup",
+    "description": "A hearty, high-fiber soup that supports digestive health and stable blood sugar. A staple in cardiac rehab diets.",
+    "image": "/img/lentil-spinach-soup.jpg",
+    "country": "Middle East",
+    "cookTime": "40 mins",
+    "servings": 4,
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, diced",
+      "2 carrots, diced",
+      "2 celery stalks, diced",
+      "3 cloves garlic, minced",
+      "1 cup brown or green lentils, rinsed",
+      "6 cups low-sodium vegetable broth",
+      "1 tsp cumin",
+      "1/2 tsp turmeric",
+      "4 cups fresh spinach",
+      "1 tbsp lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium heat. Add onion, carrots, and celery. Cook until softened, about 5-7 minutes.",
+      "Add garlic and cook for another minute until fragrant.",
+      "Stir in lentils, vegetable broth, cumin, and turmeric. Bring to a boil.",
+      "Reduce heat, cover, and simmer for 25-30 minutes, or until lentils are tender.",
+      "Stir in spinach and cook until wilted, about 2 minutes.",
+      "Remove from heat. Stir in lemon juice. Season with salt and pepper to taste."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Baked Salmon with Lemon & Dill",
+    "description": "Rich in Omega-3 fatty acids, this dish is frequently recommended by cardiologists for reducing inflammation and improving cholesterol.",
+    "image": "/img/baked-salmon.jpg",
+    "country": "Scandinavia",
+    "cookTime": "20 mins",
+    "servings": 2,
+    "ingredients": [
+      "2 (6 oz) salmon fillets, skin-on or skinless",
+      "1 tbsp olive oil",
+      "1 lemon, half juiced and half thinly sliced",
+      "1 tbsp fresh dill, chopped (or 1 tsp dried)",
+      "2 cloves garlic, minced",
+      "Salt and black pepper to taste",
+      "Lemon wedges for serving"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Place salmon fillets on a baking sheet lined with parchment paper.",
+      "In a small bowl, mix olive oil, lemon juice, dill, garlic, salt, and pepper.",
+      "Brush the mixture evenly over the salmon fillets.",
+      "Place lemon slices on top of the salmon.",
+      "Bake for 12-15 minutes, or until salmon flakes easily with a fork.",
+      "Serve with additional lemon wedges and a side of steamed vegetables."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Quinoa and Black Bean Bowl",
+    "description": "A complete plant-based protein source, perfect for managing weight and blood sugar. Often suggested by nutritionists for its high nutrient density.",
+    "image": "/img/quinoa-black-bean-bowl.jpg",
+    "country": "Latin America",
+    "cookTime": "25 mins",
+    "servings": 3,
+    "ingredients": [
+      "1 cup quinoa, rinsed",
+      "2 cups water or low-sodium broth",
+      "1 can (15 oz) black beans, rinsed and drained",
+      "1 cup corn kernels (fresh, frozen, or canned)",
+      "1 red bell pepper, diced",
+      "1/4 cup red onion, finely diced",
+      "2 tbsp fresh cilantro, chopped",
+      "1 avocado, sliced (for serving)",
+      "Lime wedges (for serving)",
+      "For the dressing: 3 tbsp lime juice, 1 tbsp olive oil, 1/2 tsp cumin, salt, pepper"
+    ],
+    "instructions": [
+      "Cook quinoa according to package instructions using water or broth. Fluff with a fork and let cool slightly.",
+      "In a large bowl, combine cooked quinoa, black beans, corn, bell pepper, and red onion.",
+      "In a small jar, shake together the lime juice, olive oil, cumin, salt, and pepper to make the dressing.",
+      "Pour dressing over the quinoa mixture and toss to combine.",
+      "Garnish with fresh cilantro and serve with avocado slices and lime wedges on the side."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Oatmeal with Berries and Chia Seeds",
+    "description": "A powerhouse breakfast for heart health. Soluble fiber from oats helps lower LDL cholesterol, a common recommendation from doctors.",
+    "image": "/img/oatmeal-berries.jpg",
+    "country": "International",
+    "cookTime": "10 mins",
+    "servings": 1,
+    "ingredients": [
+      "1/2 cup rolled oats",
+      "1 cup water or unsweetened almond milk",
+      "1/4 cup mixed berries (fresh or frozen)",
+      "1 tbsp chia seeds",
+      "1 tbsp chopped nuts (walnuts or almonds)",
+      "A pinch of cinnamon",
+      "1 tsp honey or maple syrup (optional)"
+    ],
+    "instructions": [
+      "Combine oats and liquid in a saucepan. Bring to a boil.",
+      "Reduce heat to low and simmer for 5-7 minutes, stirring occasionally, until thickened.",
+      "Pour into a bowl. Top with berries, chia seeds, nuts, and a pinch of cinnamon.",
+      "Drizzle with honey or maple syrup if desired."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Chickpea and Vegetable Curry",
+    "description": "A flavorful, fiber-rich plant-based curry. Chickpeas help regulate blood sugar and promote satiety, making it a doctor-favorite for weight management.",
+    "image": "/img/chickpea-curry.jpg",
+    "country": "India",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "ingredients": [
+      "1 tbsp coconut oil",
+      "1 onion, finely chopped",
+      "3 cloves garlic, minced",
+      "1 tbsp fresh ginger, grated",
+      "2 tbsp curry powder",
+      "1 can (14 oz) diced tomatoes",
+      "2 cans (15 oz each) chickpeas, rinsed and drained",
+      "1 cup light coconut milk",
+      "2 cups fresh spinach or kale",
+      "1 cup cauliflower florets (optional)",
+      "Salt to taste",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Heat coconut oil in a large skillet over medium heat. Add onion and cook until soft.",
+      "Add garlic and ginger, cook for 1 minute until fragrant.",
+      "Stir in curry powder and cook for another 30 seconds.",
+      "Add diced tomatoes (with their juice), chickpeas, and coconut milk. Bring to a simmer.",
+      "If using, add cauliflower. Cook for 10-15 minutes until sauce has thickened and cauliflower is tender.",
+      "Stir in spinach and cook until wilted, about 2 minutes.",
+      "Season with salt. Garnish with fresh cilantro. Serve with brown rice."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Herb-Grilled Chicken Breast",
+    "description": "A lean protein source essential for muscle maintenance and metabolic health. This simple recipe is a go-to for doctors advocating low-fat, high-protein diets.",
+    "image": "/img/grilled-chicken-breast.jpg",
+    "country": "International",
+    "cookTime": "20 mins",
+    "servings": 2,
+    "ingredients": [
+      "2 boneless, skinless chicken breasts",
+      "1 tbsp olive oil",
+      "1 tsp dried oregano",
+      "1 tsp dried thyme",
+      "1/2 tsp garlic powder",
+      "1/2 tsp paprika",
+      "Salt and black pepper to taste",
+      "1 lemon, juiced"
+    ],
+    "instructions": [
+      "Preheat grill or grill pan to medium-high heat.",
+      "Pat chicken breasts dry. Drizzle with olive oil and lemon juice.",
+      "In a small bowl, mix oregano, thyme, garlic powder, paprika, salt, and pepper.",
+      "Rub the spice mixture evenly over both sides of the chicken breasts.",
+      "Grill chicken for 6-7 minutes per side, or until internal temperature reaches 165°F (74°C).",
+      "Let rest for 5 minutes before slicing. Serve with a large side salad."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Avocado and White Bean Wrap",
+    "description": "A quick, no-cook lunch packed with healthy fats and fiber. Dietitians often recommend this for a heart-healthy, satisfying meal on the go.",
+    "image": "/img/avocado-white-bean-wrap.jpeg",
+    "country": "International",
+    "cookTime": "5 mins",
+    "servings": 1,
+    "ingredients": [
+      "1 whole wheat tortilla or lavash bread",
+      "1/2 ripe avocado, mashed",
+      "1/2 can (15 oz) cannellini beans, rinsed and drained",
+      "A handful of baby spinach or arugula",
+      "1/4 cup shredded carrots",
+      "1 tbsp red onion, finely chopped (optional)",
+      "A squeeze of lime juice",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Lay the tortilla flat on a plate.",
+      "Spread the mashed avocado evenly over the center of the tortilla.",
+      "Top with cannellini beans, spinach, carrots, and red onion.",
+      "Drizzle with lime juice and season with salt and pepper.",
+      "Fold the sides of the tortilla inward and roll tightly from the bottom to form a wrap.",
+      "Slice in half and serve immediately."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Steamed Fish with Ginger and Scallions",
+    "description": "A classic Asian preparation that is light, low in calories, and rich in protein. Doctors recommend steaming as a heart-healthy cooking method.",
+    "image": "/img/steamed-fish.jpg",
+    "country": "China",
+    "cookTime": "15 mins",
+    "servings": 2,
+    "ingredients": [
+      "2 white fish fillets (like cod, tilapia, or sea bass)",
+      "1 inch fresh ginger, julienned",
+      "2 scallions, sliced into thin strips",
+      "2 tbsp light soy sauce (or tamari)",
+      "1 tbsp sesame oil",
+      "1 tbsp rice wine (or dry sherry)",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Place the fish fillets on a heatproof plate that will fit inside your steamer.",
+      "Sprinkle half of the ginger and scallions over the fish.",
+      "Mix soy sauce, sesame oil, and rice wine in a small bowl. Drizzle half over the fish.",
+      "Bring water in a steamer to a boil. Place the plate inside, cover, and steam for 8-10 minutes, or until fish is opaque and flakes easily.",
+      "Carefully remove the plate. Top with remaining ginger and scallions.",
+      "Heat the remaining sauce mixture and pour it over the steamed fish. Garnish with cilantro. Serve immediately."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Turmeric Golden Milk",
+    "description": "An anti-inflammatory beverage often suggested by doctors for managing arthritis and promoting overall wellness. Naturally caffeine-free.",
+    "image": "/img/golden-milk.jpg",
+    "country": "India",
+    "cookTime": "5 mins",
+    "servings": 1,
+    "ingredients": [
+      "1 cup unsweetened almond milk or milk of choice",
+      "1/2 tsp ground turmeric",
+      "1/4 tsp ground ginger",
+      "A pinch of black pepper (enhances turmeric absorption)",
+      "A pinch of cinnamon",
+      "1 tsp honey or maple syrup (optional)"
+    ],
+    "instructions": [
+      "Add all ingredients to a small saucepan.",
+      "Whisk vigorously until no clumps remain.",
+      "Heat over medium heat until hot but not boiling, about 3-5 minutes.",
+      "Pour into a mug and enjoy warm."
+    ]
+  },
+    {
+    "id": 11,
+    "name": "Hearty Mushroom and Barley Soup",
+    "description": "A high-fiber, low-fat soup that supports heart health and digestion. Barley is a fantastic source of beta-glucan, recommended by doctors for cholesterol management.",
+    "image": "/img/mushroom-barley-soup.jpg",
+    "country": "Eastern Europe",
+    "cookTime": "50 mins",
+    "servings": 6,
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 large onion, chopped",
+      "2 carrots, diced",
+      "2 celery stalks, diced",
+      "3 cloves garlic, minced",
+      "1 lb (450g) cremini mushrooms, sliced",
+      "1 cup pearl barley, rinsed",
+      "8 cups low-sodium vegetable broth",
+      "2 tsp dried thyme",
+      "2 bay leaves",
+      "Salt and black pepper to taste",
+      "2 tbsp fresh parsley, chopped"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium heat. Add onion, carrots, and celery. Cook until softened, about 5-7 minutes.",
+      "Add garlic and mushrooms. Cook until mushrooms have released their liquid and started to brown, about 10 minutes.",
+      "Stir in the barley, vegetable broth, thyme, and bay leaves. Bring to a boil.",
+      "Reduce heat to low, cover, and simmer for 45-50 minutes, or until barley is tender.",
+      "Remove bay leaves. Season with salt and pepper to taste.",
+      "Garnish with fresh parsley before serving."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Tabbouleh (Parsley and Bulgur Salad)",
+    "description": "A refreshing Levantine salad bursting with antioxidants and fiber. Doctors praise its use of fresh herbs and whole grains for nutrient density.",
+    "image": "/img/tabbouleh.jpg",
+    "country": "Lebanon",
+    "cookTime": "20 mins (plus soaking)",
+    "servings": 4,
+    "ingredients": [
+      "1/2 cup fine bulgur wheat",
+      "2 cups fresh flat-leaf parsley, finely chopped",
+      "1/2 cup fresh mint, finely chopped",
+      "2 tomatoes, seeds removed and finely diced",
+      "4 scallions, finely sliced",
+      "1/4 cup fresh lemon juice",
+      "3 tbsp extra virgin olive oil",
+      "Salt to taste",
+      "Romaine lettuce leaves for serving (optional)"
+    ],
+    "instructions": [
+      "Place the bulgur in a bowl and cover with warm water. Let soak for 15-20 minutes, or until tender. Drain in a fine mesh sieve, pressing to remove excess water.",
+      "In a large bowl, combine the soaked bulgur, parsley, mint, tomatoes, and scallions.",
+      "In a small bowl, whisk together lemon juice, olive oil, and salt.",
+      "Pour the dressing over the salad and toss well to combine.",
+      "Chill in the refrigerator for at least 30 minutes to allow flavors to meld.",
+      "Serve chilled, scooped with romaine lettuce leaves or as a side dish."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Roasted Brussels Sprouts with Balsamic Glaze",
+    "description": "A simple side dish that transforms Brussels sprouts into a sweet and savory delight. Rich in vitamins C and K, often recommended for immune and bone health.",
+    "image": "/img/roasted-brussels-sprouts.jpg",
+    "country": "International",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "ingredients": [
+      "1 lb (450g) Brussels sprouts, trimmed and halved",
+      "2 tbsp olive oil",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper",
+      "2 tbsp balsamic glaze",
+      "1 tbsp pomegranate molasses (optional)"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "On a baking sheet, toss Brussels sprouts with olive oil, salt, and pepper until evenly coated.",
+      "Arrange in a single layer, cut-side down.",
+      "Roast for 20-25 minutes, until tender and deeply browned on the edges.",
+      "Transfer to a serving dish. Drizzle with balsamic glaze and pomegranate molasses (if using). Serve immediately."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Chia Seed Pudding with Mango",
+    "description": "A make-ahead breakfast rich in omega-3s and fiber. Doctors and nutritionists recommend chia seeds for their role in promoting satiety and digestive health.",
+    "image": "/img/chia-pudding-mango.jpg",
+    "country": "International",
+    "cookTime": "5 mins (plus overnight chilling)",
+    "servings": 2,
+    "ingredients": [
+      "1/4 cup chia seeds",
+      "1 cup unsweetened almond milk or coconut milk",
+      "1/2 tsp vanilla extract",
+      "1 tsp honey or maple syrup (optional)",
+      "1 ripe mango, diced",
+      "1 tbsp unsweetened shredded coconut (for garnish)"
+    ],
+    "instructions": [
+      "In a jar or bowl, whisk together chia seeds, almond milk, vanilla extract, and sweetener (if using).",
+      "Let sit for 5 minutes, then whisk again to prevent clumps.",
+      "Cover and refrigerate for at least 4 hours, or preferably overnight.",
+      "Before serving, layer the pudding with diced mango in a glass.",
+      "Garnish with shredded coconut and extra mango pieces."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Stir-Fried Tofu with Broccoli",
+    "description": "A quick, plant-based stir-fry packed with protein and cruciferous vegetables. A staple in diets recommended for managing blood pressure and cholesterol.",
+    "image": "/img/tofu-broccoli-stirfry.jpg",
+    "country": "China",
+    "cookTime": "20 mins",
+    "servings": 3,
+    "ingredients": [
+      "1 block (14 oz) firm tofu, pressed and cubed",
+      "2 tbsp cornstarch",
+      "2 tbsp olive or avocado oil",
+      "1 head broccoli, cut into florets",
+      "1 red bell pepper, sliced",
+      "2 cloves garlic, minced",
+      "1 tbsp fresh ginger, grated",
+      "3 tbsp low-sodium soy sauce (or tamari)",
+      "1 tbsp rice vinegar",
+      "1 tsp sesame oil",
+      "2 tbsp water",
+      "1 tsp honey or maple syrup (optional)",
+      "Sesame seeds for garnish"
+    ],
+    "instructions": [
+      "Toss the cubed tofu with cornstarch until evenly coated.",
+      "Heat 1 tbsp of oil in a large wok or skillet over medium-high heat. Add tofu and cook until golden and crispy on all sides. Remove and set aside.",
+      "Add remaining oil to the skillet. Add broccoli and bell pepper and stir-fry for 3-4 minutes.",
+      "Add garlic and ginger, cook for 30 seconds until fragrant.",
+      "In a small bowl, whisk together soy sauce, rice vinegar, sesame oil, water, and sweetener.",
+      "Pour the sauce into the skillet. Add the cooked tofu back in. Stir-fry for another 2-3 minutes until the sauce thickens and coats everything.",
+      "Garnish with sesame seeds. Serve immediately with brown rice."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Mediterranean Stuffed Bell Peppers",
+    "description": "Bell peppers filled with a savory mixture of quinoa, vegetables, and herbs. A complete, balanced meal doctors love for its heart-healthy profile.",
+    "image": "/img/stuffed-bell-peppers.jpg",
+    "country": "Mediterranean",
+    "cookTime": "45 mins",
+    "servings": 4,
+    "ingredients": [
+      "4 large bell peppers (any color), tops cut off and seeds removed",
+      "1 cup cooked quinoa",
+      "1 can (15 oz) chickpeas, rinsed and drained",
+      "1 cup cherry tomatoes, halved",
+      "1/2 cup cucumber, diced",
+      "1/4 cup red onion, finely diced",
+      "1/4 cup kalamata olives, sliced",
+      "2 tbsp fresh parsley, chopped",
+      "1 tbsp fresh mint, chopped",
+      "2 tbsp lemon juice",
+      "1 tbsp olive oil",
+      "1/2 tsp dried oregano",
+      "Salt and pepper to taste",
+      "2 oz feta cheese, crumbled (optional)"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C). Place the hollowed bell peppers in a baking dish.",
+      "In a large bowl, combine cooked quinoa, chickpeas, tomatoes, cucumber, red onion, olives, parsley, and mint.",
+      "In a small bowl, whisk together lemon juice, olive oil, oregano, salt, and pepper. Pour over the quinoa mixture and toss to combine.",
+      "Gently fold in the feta cheese if using.",
+      "Spoon the filling evenly into the bell peppers.",
+      "Cover the baking dish with foil and bake for 30-35 minutes, until peppers are tender.",
+      "Remove foil and bake for another 5 minutes. Let cool slightly before serving."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Kale and Apple Salad with Lemon Vinaigrette",
+    "description": "A robust salad where the kale is massaged to tender perfection. Doctors recommend dark leafy greens like kale for their incredible concentration of vitamins and minerals.",
+    "image": "/img/kale-apple-salad.jpg",
+    "country": "International",
+    "cookTime": "15 mins",
+    "servings": 2,
+    "ingredients": [
+      "1 bunch kale, stems removed, leaves thinly sliced",
+      "1/2 tsp salt",
+      "1 apple, cored and thinly sliced",
+      "2 tbsp red onion, thinly sliced",
+      "2 tbsp dried cranberries",
+      "2 tbsp walnuts, chopped",
+      "2 tbsp lemon juice",
+      "1 tbsp olive oil",
+      "1 tsp honey or maple syrup",
+      "1/4 tsp black pepper"
+    ],
+    "instructions": [
+      "Place the sliced kale in a large bowl. Sprinkle with salt.",
+      "Using your hands, massage the kale for 2-3 minutes until it becomes darker in color and tender.",
+      "Add the apple, red onion, cranberries, and walnuts to the bowl.",
+      "In a small jar, combine lemon juice, olive oil, honey, and pepper. Shake well.",
+      "Pour the dressing over the salad and toss to combine. Let sit for 5-10 minutes before serving to allow flavors to absorb."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Baked Sweet Potato with Greek Yogurt & Chives",
+    "description": "A simple, satisfying meal rich in beta-carotene and protein. A much healthier alternative to loaded baked potatoes, often suggested for weight management.",
+    "image": "/img/baked-sweet-potato.jpg",
+    "country": "International",
+    "cookTime": "45 mins",
+    "servings": 2,
+    "ingredients": [
+      "2 medium sweet potatoes, scrubbed clean",
+      "1/2 cup plain Greek yogurt",
+      "1 tbsp fresh chives, chopped",
+      "1/2 tsp garlic powder",
+      "Salt and black pepper to taste",
+      "A pinch of paprika or chili powder for garnish"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Prick the sweet potatoes all over with a fork. Place directly on the oven rack or on a baking sheet.",
+      "Bake for 45-60 minutes, or until very tender when pierced with a knife.",
+      "Let cool slightly. Slice each potato open lengthwise.",
+      "In a small bowl, mix Greek yogurt, chives, garlic powder, salt, and pepper.",
+      "Top the sweet potatoes with the yogurt mixture and a sprinkle of paprika. Serve warm."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Classic Hummus with Vegetable Sticks",
+    "description": "A creamy dip made from chickpeas and tahini, a popular recommendation for a heart-healthy snack full of fiber and healthy fats.",
+    "image": "/img/hummus-veggies.jpg",
+    "country": "Middle East",
+    "cookTime": "10 mins",
+    "servings": 6,
+    "ingredients": [
+      "1 can (15 oz) chickpeas, rinsed and drained (liquid reserved)",
+      "1/4 cup fresh lemon juice",
+      "1/4 cup well-stirred tahini",
+      "1 small garlic clove, minced",
+      "2 tbsp extra virgin olive oil",
+      "1/2 tsp ground cumin",
+      "Salt to taste",
+      "2-3 tbsp aquafaba (reserved chickpea liquid) or water",
+      "For serving: Carrot sticks, cucumber sticks, bell pepper strips"
+    ],
+    "instructions": [
+      "In a food processor, combine the tahini and lemon juice. Process for 1 minute.",
+      "Add the olive oil, minced garlic, cumin, and a 1/2 teaspoon of salt. Process for 30 seconds.",
+      "Add the chickpeas and process for 2-3 minutes until very smooth.",
+      "While processing, slowly add 2 tablespoons of aquafaba or water until desired consistency is reached.",
+      "Taste and adjust seasoning, adding more salt or lemon juice if needed.",
+      "Transfer to a bowl, drizzle with a little more olive oil, and serve with fresh vegetable sticks."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Shakshuka (Eggs Poached in Tomato Sauce)",
+    "description": "A North African dish that is a perfect balance of protein and vegetables. Frequently recommended for a nutritious, sustaining breakfast that keeps you full for hours.",
+    "image": "/img/shakshuka.jpg",
+    "country": "North Africa",
+    "cookTime": "30 mins",
+    "servings": 3,
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "1 red bell pepper, chopped",
+      "3 cloves garlic, minced",
+      "1 tsp ground cumin",
+      "1 tsp paprika",
+      "1/4 tsp chili powder (optional)",
+      "1 can (28 oz) crushed tomatoes",
+      "Salt and pepper to taste",
+      "6 eggs",
+      "2 tbsp fresh cilantro or parsley, chopped",
+      "Crumbled feta cheese for serving (optional)"
+    ],
+    "instructions": [
+      "Heat olive oil in a large skillet over medium heat. Add onion and bell pepper. Cook until softened, about 5-7 minutes.",
+      "Add garlic, cumin, paprika, and chili powder. Cook for another minute until fragrant.",
+      "Pour in crushed tomatoes. Season with salt and pepper. Simmer for 10-15 minutes until the sauce has thickened.",
+      "Using a spoon, create small wells in the sauce. Crack an egg into each well.",
+      "Cover the skillet and cook for 5-8 minutes, or until the egg whites are set but the yolks are still runny.",
+      "Garnish with fresh herbs and crumbled feta (if using). Serve immediately directly from the skillet."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Cucumber and Tomato Salad with Feta",
+    "description": "A refreshing, hydrating salad that is a staple of the Mediterranean diet. Doctors recommend it for its high water content and array of vitamins.",
+    "image": "/img/cucumber-tomato-salad.jpg",
+    "country": "Mediterranean",
+    "cookTime": "10 mins",
+    "servings": 4,
+    "ingredients": [
+      "2 large cucumbers, chopped",
+      "4 medium tomatoes, chopped",
+      "1/2 red onion, thinly sliced",
+      "1/4 cup fresh mint leaves, chopped",
+      "1/4 cup fresh parsley, chopped",
+      "2 oz feta cheese, crumbled",
+      "3 tbsp extra virgin olive oil",
+      "2 tbsp lemon juice",
+      "1/2 tsp dried oregano",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine cucumbers, tomatoes, red onion, mint, and parsley.",
+      "In a small bowl, whisk together olive oil, lemon juice, oregano, salt, and pepper.",
+      "Pour the dressing over the salad and toss gently to combine.",
+      "Sprinkle crumbled feta cheese over the top.",
+      "Serve immediately or chill for 30 minutes to enhance the flavors."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Homemade Black Bean Burgers",
+    "description": "A delicious and satisfying plant-based burger patty. These are high in fiber and protein, making them a popular choice for heart-healthy and diabetic diets.",
+    "image": "/img/black-bean-burger.jpg",
+    "country": "International",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "ingredients": [
+      "2 cans (15 oz each) black beans, rinsed and drained",
+      "1/2 cup whole wheat breadcrumbs",
+      "1/4 cup red onion, finely diced",
+      "2 cloves garlic, minced",
+      "1 tsp ground cumin",
+      "1/2 tsp smoked paprika",
+      "1/4 cup fresh cilantro, chopped",
+      "1 tbsp olive oil",
+      "Salt and pepper to taste",
+      "For serving: Whole wheat buns, lettuce, tomato, onion"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+      "In a large bowl, mash the black beans with a fork, leaving some whole for texture.",
+      "Add breadcrumbs, onion, garlic, cumin, paprika, cilantro, salt, and pepper. Mix well until combined.",
+      "Form the mixture into 4 equal-sized patties.",
+      "Heat olive oil in a skillet over medium heat. Cook patties for 3-4 minutes on each side, until golden brown.",
+      "Transfer patties to the prepared baking sheet and bake for 10 minutes to firm up.",
+      "Serve on whole wheat buns with your favorite healthy toppings."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Brown Rice Sushi Rolls with Avocado and Cucumber",
+    "description": "A fun, homemade version of sushi using nutrient-rich brown rice. A great way to incorporate whole grains and healthy fats into your diet.",
+    "image": "/img/brown-rice-sushi.jpg",
+    "country": "Japan",
+    "cookTime": "45 mins",
+    "servings": 3,
+    "ingredients": [
+      "1 cup short-grain brown rice, cooked and cooled",
+      "2 tbsp rice vinegar",
+      "1 tsp honey or maple syrup",
+      "4 sheets nori (seaweed)",
+      "1 avocado, sliced",
+      "1 small cucumber, julienned",
+      "1 carrot, julienned",
+      "Soy sauce (low-sodium), for serving",
+      "Pickled ginger, for serving",
+      "Wasabi, for serving (optional)"
+    ],
+    "instructions": [
+      "In a small bowl, mix rice vinegar and honey into the cooled brown rice.",
+      "Place a sheet of nori on a bamboo sushi mat.",
+      "With wet hands, spread a thin layer of rice over the nori, leaving a 1-inch border at the top.",
+      "Arrange avocado, cucumber, and carrot strips in a line along the bottom edge of the rice.",
+      "Using the mat, tightly roll the sushi away from you, pressing gently as you go.",
+      "Use a sharp wet knife to slice the roll into 6-8 pieces.",
+      "Repeat with remaining ingredients. Serve with low-sodium soy sauce, ginger, and wasabi."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Gazpacho (Chilled Tomato Soup)",
+    "description": "A raw, chilled soup that is like a liquid salad. Doctors love it for its high concentration of antioxidants and vitamins from fresh vegetables.",
+    "image": "/img/gazpacho.jpg",
+    "country": "Spain",
+    "cookTime": "15 mins (plus chilling)",
+    "servings": 4,
+    "ingredients": [
+      "2 lbs (about 1 kg) ripe tomatoes, chopped",
+      "1 cucumber, peeled and chopped",
+      "1 green bell pepper, chopped",
+      "1 small red onion, chopped",
+      "2 cloves garlic",
+      "3 tbsp extra virgin olive oil",
+      "2 tbsp sherry vinegar or red wine vinegar",
+      "1 cup cold water",
+      "Salt and black pepper to taste",
+      "Optional garnishes: Diced cucumber, croutons, chopped herbs"
+    ],
+    "instructions": [
+      "Combine tomatoes, cucumber, bell pepper, onion, and garlic in a blender.",
+      "Blend until smooth.",
+      "With the blender running, slowly add the olive oil and vinegar.",
+      "Add water until you reach your desired consistency.",
+      "Season generously with salt and pepper.",
+      "Transfer to a container and chill in the refrigerator for at least 2 hours, or overnight.",
+      "Serve cold, garnished with your choice of toppings."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Baked Apple with Cinnamon and Walnuts",
+    "description": "A simple, wholesome dessert that feels indulgent. A doctor-approved treat that provides fiber and healthy fats without refined sugars.",
+    "image": "/img/baked-apple.jpg",
+    "country": "International",
+    "cookTime": "30 mins",
+    "servings": 2,
+    "ingredients": [
+      "2 large apples (e.g., Honeycrisp, Granny Smith)",
+      "2 tbsp walnuts, chopped",
+      "1 tbsp raisins",
+      "1 tsp cinnamon",
+      "A pinch of nutmeg",
+      "2 tsp honey or maple syrup",
+      "1/4 cup water",
+      "Greek yogurt for serving (optional)"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Core the apples, creating a well in the center, but leave the bottom intact.",
+      "In a small bowl, mix walnuts, raisins, cinnamon, and nutmeg.",
+      "Stuff the mixture into the center of each apple.",
+      "Drizzle honey over the top of each apple.",
+      "Place apples in a small baking dish and pour water into the bottom of the dish.",
+      "Bake for 25-30 minutes, or until the apples are tender.",
+      "Serve warm, with a spoonful of Greek yogurt if desired."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Turkey and Vegetable Meatballs",
+    "description": "A leaner alternative to beef meatballs, using ground turkey and hidden vegetables. Often recommended for a high-protein, low-saturated-fat meal.",
+    "image": "/img/turkey-meatballs.jpg",
+    "country": "International",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "ingredients": [
+      "1 lb (450g) lean ground turkey",
+      "1/2 cup zucchini, grated and moisture squeezed out",
+      "1/4 cup whole wheat breadcrumbs",
+      "1/4 cup red onion, finely diced",
+      "1 clove garlic, minced",
+      "1 egg, lightly beaten",
+      "1 tsp dried oregano",
+      "1/2 tsp paprika",
+      "Salt and pepper to taste",
+      "1 tbsp olive oil",
+      "2 cups low-sodium marinara sauce"
+    ],
+    "instructions": [
+      "In a large bowl, combine ground turkey, zucchini, breadcrumbs, onion, garlic, egg, oregano, paprika, salt, and pepper. Mix gently with your hands until just combined.",
+      "Form the mixture into 1-inch meatballs.",
+      "Heat olive oil in a large skillet over medium heat. Add meatballs and cook, turning occasionally, until browned on all sides, about 8-10 minutes.",
+      "Pour marinara sauce over the meatballs. Bring to a simmer, then reduce heat to low, cover, and cook for 10-15 minutes, until meatballs are cooked through.",
+      "Serve over whole wheat pasta or zucchini noodles."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Zucchini Noodles (Zoodles) with Pesto",
+    "description": "A brilliant low-carb, gluten-free alternative to pasta. Topped with a healthy pesto, it's a nutrient-dense meal doctors recommend for weight management.",
+    "image": "/img/zoodles-pesto.jpg",
+    "country": "Italy",
+    "cookTime": "10 mins",
+    "servings": 2,
+    "ingredients": [
+      "3-4 medium zucchinis, spiralized",
+      "1 tbsp olive oil",
+      "For the Pesto:",
+      "2 cups fresh basil leaves",
+      "1/4 cup pine nuts or walnuts",
+      "2 cloves garlic",
+      "1/4 cup nutritional yeast or Parmesan cheese",
+      "1/4 cup extra virgin olive oil",
+      "2 tbsp lemon juice",
+      "Salt and pepper to taste",
+      "Cherry tomatoes, halved (for garnish)"
+    ],
+    "instructions": [
+      "Make the pesto: In a food processor, combine basil, nuts, garlic, and nutritional yeast. Pulse until finely chopped.",
+      "With the processor running, slowly stream in the olive oil and lemon juice until smooth. Season with salt and pepper.",
+      "Heat 1 tbsp olive oil in a large skillet over medium heat. Add the zucchini noodles and sauté for 2-3 minutes, just until tender but still al dente.",
+      "Remove from heat and toss with the desired amount of pesto.",
+      "Garnish with halved cherry tomatoes and an extra sprinkle of nuts or cheese. Serve immediately."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Quinoa Stuffed Acorn Squash",
+    "description": "A beautiful and festive autumn dish. Acorn squash is rich in vitamins C and B, and quinoa provides complete protein, making this a balanced vegetarian main.",
+    "image": "/img/stuffed-acorn-squash.jpg",
+    "country": "International",
+    "cookTime": "1 hour",
+    "servings": 2,
+    "ingredients": [
+      "1 acorn squash, halved and seeds removed",
+      "1 tbsp olive oil",
+      "Salt and pepper",
+      "1 cup cooked quinoa",
+      "1/2 apple, diced",
+      "2 tbsp dried cranberries",
+      "2 tbsp pecans or walnuts, chopped",
+      "1 tbsp maple syrup",
+      "1/2 tsp cinnamon",
+      "A pinch of nutmeg"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Brush the cut sides of the squash with olive oil and season with salt and pepper. Place cut-side down on a baking sheet.",
+      "Roast for 30-40 minutes, until tender when pierced with a fork.",
+      "Meanwhile, in a bowl, mix cooked quinoa, apple, cranberries, nuts, maple syrup, cinnamon, and nutmeg.",
+      "Flip the squash halves over. Divide the quinoa stuffing between them.",
+      "Return to the oven for 10 more minutes to warm the filling.",
+      "Serve warm as a main dish."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Cabbage and Carrot Slaw with Apple Cider Vinaigrette",
+    "description": "A crunchy, vinegar-based slaw without the heavy mayo. The apple cider vinegar is a doctor-recommended ingredient for its potential metabolic benefits.",
+    "image": "/img/cabbage-slaw.jpg",
+    "country": "International",
+    "cookTime": "15 mins",
+    "servings": 6,
+    "ingredients": [
+      "4 cups green cabbage, thinly shredded",
+      "2 cups red cabbage, thinly shredded",
+      "2 large carrots, grated",
+      "3 scallions, thinly sliced",
+      "1/4 cup fresh parsley, chopped",
+      "1/4 cup apple cider vinegar",
+      "2 tbsp extra virgin olive oil",
+      "1 tsp Dijon mustard",
+      "1 tsp honey or maple syrup",
+      "1/2 tsp celery seed",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine green cabbage, red cabbage, carrots, scallions, and parsley.",
+      "In a small jar, combine apple cider vinegar, olive oil, mustard, honey, celery seed, salt, and pepper. Shake vigorously until emulsified.",
+      "Pour the dressing over the slaw and toss well to combine.",
+      "Refrigerate for at least 30 minutes before serving to allow the cabbage to soften slightly and the flavors to meld."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Poached Pears in Cinnamon Tea",
+    "description": "An elegant, light dessert that is naturally sweetened. Pears provide fiber, and cinnamon helps regulate blood sugar, making this a smart choice for a healthy end to a meal.",
+    "image": "/img/poached-pears.jpeg",
+    "country": "International",
+    "cookTime": "25 mins",
+    "servings": 4,
+    "ingredients": [
+      "4 firm but ripe pears (e.g., Bosc or Anjou), peeled",
+      "4 cups strong brewed cinnamon tea (or 4 cups water with 2 cinnamon sticks)",
+      "2 strips of lemon zest",
+      "1 tbsp lemon juice",
+      "1-2 tbsp honey or maple syrup (optional)",
+      "1 tsp vanilla extract",
+      "A pinch of ground cloves (optional)"
+    ],
+    "instructions": [
+      "In a saucepan just large enough to hold the pears, combine tea, lemon zest, lemon juice, honey (if using), vanilla, and cloves.",
+      "Bring to a simmer over medium heat, stirring until honey dissolves.",
+      "Add the peeled pears to the liquid. Reduce heat to low, cover, and simmer for 15-20 minutes, turning occasionally, until pears are tender when pierced with a knife.",
+      "Remove pears from the liquid and set aside.",
+      "Increase heat to high and boil the poaching liquid until it reduces and becomes slightly syrupy, about 10 minutes.",
+      "Serve pears warm or chilled, drizzled with the reduced syrup."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Edamame with Sea Salt",
+    "description": "The simplest of snacks, edamame is a complete plant-based protein. Doctors frequently recommend it for its isoflavones and ability to help manage cholesterol.",
+    "image": "/img/edamame.jpg",
+    "country": "Japan",
+    "cookTime": "5 mins",
+    "servings": 2,
+    "ingredients": [
+      "10 oz (280g) package frozen edamame in pods",
+      "1 tbsp sea salt, plus more for serving",
+      "Water for boiling"
+    ],
+    "instructions": [
+      "Bring a large pot of water to a boil. Add the tablespoon of salt.",
+      "Add the frozen edamame and cook for 3-5 minutes, until bright green and tender.",
+      "Drain immediately and rinse with cool water to stop the cooking.",
+      "Sprinkle with additional sea salt and toss to coat.",
+      "Serve warm or cold. To eat, squeeze the beans out of the pods directly into your mouth."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Whole Wheat Pasta with Marinara and Lentils",
+    "description": "A classic comfort food made healthier with whole grains and plant-based protein. The lentils add a meaty texture and a huge fiber boost, perfect for a heart-healthy diet.",
+    "image": "/img/pasta-lentils.jpeg",
+    "country": "Italy",
+    "cookTime": "30 mins",
+    "servings": 4,
+    "ingredients": [
+      "8 oz (225g) whole wheat pasta",
+      "1 tbsp olive oil",
+      "1 small onion, finely diced",
+      "2 cloves garlic, minced",
+      "1 cup brown or green lentils, rinsed",
+      "4 cups low-sodium vegetable broth",
+      "2 cups low-sodium marinara sauce",
+      "1 tsp dried oregano",
+      "1/2 tsp dried basil",
+      "Salt and pepper to taste",
+      "Fresh basil for garnish",
+      "Nutritional yeast or Parmesan cheese for serving (optional)"
+    ],
+    "instructions": [
+      "Cook pasta according to package directions. Drain and set aside.",
+      "Meanwhile, heat olive oil in a large pot over medium heat. Add onion and cook until soft, about 5 minutes. Add garlic and cook for 1 more minute.",
+      "Add lentils, vegetable broth, oregano, and basil. Bring to a boil, then reduce heat, cover, and simmer for 20-25 minutes, until lentils are tender and most liquid is absorbed.",
+      "Stir in the marinara sauce and cooked pasta. Heat through.",
+      "Season with salt and pepper. Serve garnished with fresh basil and a sprinkle of nutritional yeast if desired."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Berry and Spinach Smoothie",
+    "description": "A quick and powerful breakfast or snack. The spinach is virtually undetectable but adds a massive nutrient punch. Doctors love smoothies for their digestibility and nutrient density.",
+    "image": "/img/berry-spinach-smoothie.jpg",
+    "country": "International",
+    "cookTime": "5 mins",
+    "servings": 1,
+    "ingredients": [
+      "1 cup unsweetened almond milk",
+      "1 large handful fresh spinach",
+      "1 cup frozen mixed berries (strawberries, blueberries, raspberries)",
+      "1/2 banana (fresh or frozen)",
+      "1 tbsp chia seeds or ground flaxseed",
+      "1 scoop unflavored or vanilla protein powder (optional)"
+    ],
+    "instructions": [
+      "Place all ingredients in a blender in the order listed.",
+      "Blend on high until completely smooth and creamy.",
+      "If too thick, add more almond milk one tablespoon at a time until desired consistency is reached.",
+      "Pour into a glass and drink immediately."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Roasted Beet and Goat Cheese Salad",
+    "description": "A beautiful salad with earthy sweetness from beets and tangy creaminess from cheese. Beets are renowned for their blood pressure-regulating nitrates.",
+    "image": "/img/beet-goat-cheese-salad.jpg",
+    "country": "International",
+    "cookTime": "1 hour (mostly roasting)",
+    "servings": 4,
+    "ingredients": [
+      "3-4 medium beets, scrubbed and tops trimmed",
+      "5 oz (140g) mixed greens or arugula",
+      "2 oz goat cheese, crumbled",
+      "1/4 cup walnuts, toasted and chopped",
+      "2 tbsp balsamic vinegar",
+      "1 tbsp shallot, minced",
+      "1 tsp Dijon mustard",
+      "3 tbsp extra virgin olive oil",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C). Wrap each beet individually in foil. Place on a baking sheet and roast for 45-60 minutes, until tender when pierced with a knife.",
+      "Let beets cool. Use a paper towel to rub the skins off. Slice into wedges.",
+      "For the dressing: In a small bowl, whisk together balsamic vinegar, shallot, and Dijon mustard. Slowly whisk in the olive oil until emulsified. Season with salt and pepper.",
+      "Arrange greens on a platter. Top with roasted beet wedges, crumbled goat cheese, and toasted walnuts.",
+      "Drizzle with dressing and serve immediately."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Cauliflower Rice Stir-Fry",
+    "description": "A fantastic low-carb base for a stir-fry that is just as satisfying as regular rice. A popular recommendation from doctors for those managing diabetes or weight.",
+    "image": "/img/cauliflower-rice-stirfry.jpg",
+    "country": "International",
+    "cookTime": "15 mins",
+    "servings": 3,
+    "ingredients": [
+      "1 tbsp avocado or olive oil",
+      "2 cloves garlic, minced",
+      "1 tbsp ginger, grated",
+      "1 head cauliflower, riced (or 1 lb pre-riced)",
+      "1 cup broccoli florets",
+      "1 bell pepper, sliced",
+      "1 carrot, julienned",
+      "2 tbsp low-sodium soy sauce",
+      "1 tsp sesame oil",
+      "2 eggs, lightly beaten (optional)",
+      "Sliced scallions and sesame seeds for garnish"
+    ],
+    "instructions": [
+      "Heat oil in a large wok or skillet over medium-high heat.",
+      "Add garlic and ginger, stir for 30 seconds until fragrant.",
+      "Add the broccoli, bell pepper, and carrot. Stir-fry for 3-4 minutes until slightly tender.",
+      "Add the cauliflower rice and stir-fry for another 4-5 minutes, until tender.",
+      "Push vegetables to one side. Pour beaten eggs into the empty space and scramble until cooked, then mix into the rice.",
+      "Add soy sauce and sesame oil. Toss everything to combine.",
+      "Garnish with sliced scallions and sesame seeds. Serve hot."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Miso Soup with Tofu and Wakame",
+    "description": "A simple, restorative Japanese soup. Miso is a fermented food, rich in probiotics, which doctors recommend for gut health and immune function.",
+    "image": "/img/miso-soup.jpg",
+    "country": "Japan",
+    "cookTime": "15 mins",
+    "servings": 4,
+    "ingredients": [
+      "4 cups water",
+      "1 piece (4-inch) kombu (dried kelp) (optional)",
+      "3 tbsp miso paste (white or red)",
+      "1/2 cup firm tofu, cubed",
+      "2 tbsp dried wakame seaweed",
+      "2 scallions, thinly sliced"
+    ],
+    "instructions": [
+      "Place water (and kombu, if using) in a pot. Heat until just about to boil, then remove the kombu.",
+      "Place miso paste in a small bowl. Ladle a small amount of hot water into the bowl and whisk until the miso is completely dissolved.",
+      "Reduce heat to low. Add the dissolved miso, tofu, and wakame to the pot.",
+      "Gently heat for 3-4 minutes. Do not boil, as boiling destroys miso's beneficial enzymes.",
+      "Ladle into bowls and garnish with sliced scallions. Serve immediately."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Spicy Red Lentil Dip",
+    "description": "A warm, creamy dip made from protein-packed red lentils. Similar to hummus but with a unique, spicy flavor. Great for a high-fiber snack with veggie sticks.",
+    "image": "/img/red-lentil-dip.jpg",
+    "country": "Middle East",
+    "cookTime": "25 mins",
+    "servings": 6,
+    "ingredients": [
+      "1 cup red lentils, rinsed",
+      "3 cups water",
+      "2 tbsp olive oil",
+      "1 onion, finely chopped",
+      "3 cloves garlic, minced",
+      "1 tbsp tomato paste",
+      "1 tsp ground cumin",
+      "1/2 tsp smoked paprika",
+      "1/4 tsp cayenne pepper (adjust to taste)",
+      "2 tbsp lemon juice",
+      "Salt to taste",
+      "Chopped parsley for garnish"
+    ],
+    "instructions": [
+      "In a saucepan, combine lentils and water. Bring to a boil, then reduce heat and simmer for 15-20 minutes, until lentils are very soft and water is absorbed. Drain any excess water.",
+      "Meanwhile, heat olive oil in a skillet. Add onion and cook until soft and golden, about 10 minutes. Add garlic, tomato paste, cumin, paprika, and cayenne. Cook for 1 more minute.",
+      "Combine the cooked lentils and the onion-spice mixture in a food processor.",
+      "Add lemon juice and salt. Process until smooth.",
+      "Transfer to a bowl, drizzle with a little more olive oil, and garnish with parsley. Serve warm or at room temperature."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Baked Cod with a Crumbly Herb Topping",
+    "description": "A light, flaky white fish with a crispy topping. Cod is an excellent source of lean protein and iodine, important for thyroid function.",
+    "image": "/img/baked-cod.jpg",
+    "country": "International",
+    "cookTime": "20 mins",
+    "servings": 2,
+    "ingredients": [
+      "2 (6 oz) cod fillets",
+      "1 tbsp olive oil",
+      "1/2 cup whole wheat panko breadcrumbs",
+      "2 tbsp fresh parsley, chopped",
+      "1 tbsp fresh dill, chopped",
+      "1 clove garlic, minced",
+      "Zest of 1/2 lemon",
+      "Salt and pepper to taste",
+      "Lemon wedges for serving"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Pat cod fillets dry and place on a baking sheet lined with parchment paper. Drizzle with olive oil and season with salt and pepper.",
+      "In a small bowl, mix breadcrumbs, parsley, dill, garlic, and lemon zest.",
+      "Press the breadcrumb mixture evenly onto the top of each cod fillet.",
+      "Bake for 12-15 minutes, until the fish is opaque and flakes easily, and the topping is golden brown.",
+      "Serve immediately with lemon wedges."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Warm Farro Salad with Roasted Vegetables",
+    "description": "Farro is an ancient whole grain with a chewy texture and nutty flavor. This hearty salad is packed with fiber and vitamins, perfect for a healthy lunch.",
+    "image": "/img/farro-salad.jpg",
+    "country": "Italy",
+    "cookTime": "40 mins",
+    "servings": 4,
+    "ingredients": [
+      "1 cup semi-pearled farro, rinsed",
+      "3 cups water or vegetable broth",
+      "1 small eggplant, cubed",
+      "1 zucchini, cubed",
+      "1 red bell pepper, chopped",
+      "1 red onion, sliced",
+      "2 tbsp olive oil, divided",
+      "1 tbsp balsamic vinegar",
+      "1/4 cup fresh basil, chopped",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Combine farro and water in a saucepan. Bring to a boil, then reduce heat, cover, and simmer for 25-30 minutes, until tender. Drain any excess liquid.",
+      "Toss eggplant, zucchini, bell pepper, and onion with 1 tbsp olive oil, salt, and pepper. Spread on a baking sheet.",
+      "Roast vegetables for 20-25 minutes, until tender and slightly caramelized.",
+      "In a large bowl, combine the cooked farro and roasted vegetables.",
+      "Whisk together remaining 1 tbsp olive oil and balsamic vinegar. Pour over the salad and toss.",
+      "Stir in fresh basil. Season with additional salt and pepper to taste. Serve warm or at room temperature."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Almond Butter and Banana Smoothie",
+    "description": "A creamy, satisfying smoothie that tastes like a treat but is packed with nutrition. The healthy fats from almond butter provide sustained energy.",
+    "image": "/img/almond-butter-smoothie.jpg",
+    "country": "International",
+    "cookTime": "5 mins",
+    "servings": 1,
+    "ingredients": [
+      "1 cup unsweetened almond milk",
+      "1 frozen banana",
+      "1 tbsp almond butter",
+      "1 tbsp ground flaxseed or chia seeds",
+      "1/2 tsp cinnamon",
+      "A handful of ice cubes"
+    ],
+    "instructions": [
+      "Place all ingredients in a blender.",
+      "Blend on high until smooth and creamy.",
+      "Pour into a glass and enjoy immediately."
+    ]
+  }
+]
+}

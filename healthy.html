@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SavorySphere - Recipe Finder</title>
+     <link rel="stylesheet" href="assets/style.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header> 
+            <div class="head-left">
+                <img src="img/Vegetable@1-790x646.png" alt="SavorySphere Logo" class="logo">
+                <h1 class="site-title">SavorySphere</h1>
+            </div>
+            
+            <button class="menu-button">☰</button>
+            
+            <nav class="head-right">
+                <a href="index.html" >Home</a>
+                <a href="myfridge.html" >My Fridge</a>
+                <a href="articles.html">Articles</a>
+                <a href="healthy.html" class="active">Healthy Bites</a>
+            </nav>
+        </header>
+
+        <section id="home" class="hero-section">
+            <div class="hero-video-container">
+                <video loop autoplay muted playsinline preload="auto" class="hero-video">
+                    <source src="img/3195728-uhd_3840_2160_25fps.mp4" type="video/mp4">
+                </video>
+                <div class="hero-overlay"></div>
+            </div>
+            <div class="hero-content"> <h1 class="hero-title">HEALTHY BITES: NOURISHING RECIPES FROM YOUR FRIDGE</h1> 
+               <p class="hero-subtitle">Transform your ingredients into delicious, diet-friendly meals</p> 
+              <a href="#fridge-section" class="hero-cta">Explore Healthy Recipes</a> 
+           </div>
+        </section>
+
+        <div id="fridge-section" class="fridge-container" >
+            <!-- Ingredients Sidebar -->
+            <aside class="ingredients-sidebar">
+                <div class="sidebar-header">
+                    <h2>My Ingredients</h2>
+                    <!-- <div class="search-box">
+                        <input type="text" id="ingredient-search" placeholder="Search ingredients...">
+                        <button id="add-ingredient-btn">+</button>
+                    </div> -->
+                </div>
+
+                <div class="ingredient-categories-container">
+                    <div class="ingredient-categories" style="max-height: 700px; overflow-y: auto;">
+<div class="category">
+    <h3>Vegetables</h3>
+    <div class="ingredient-list">
+        <label class="ingredient-item">
+            <input type="checkbox" value="acorn squash"> Acorn Squash
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="arugula"> Arugula
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="avocado"> Avocado
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="basil"> Basil
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="beets"> Beets
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="bell pepper"> Bell Pepper
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="broccoli"> Broccoli
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="brussels sprouts"> Brussels Sprouts
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="cabbage"> Cabbage
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="carrot"> Carrot
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="cauliflower"> Cauliflower
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="celery"> Celery
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="chives"> Chives
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="cilantro"> Cilantro
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="cucumber"> Cucumber
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="dill"> Dill
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="eggplant"> Eggplant
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="garlic"> Garlic
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="ginger"> Ginger
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="kale"> Kale
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="lemon"> Lemon
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="lettuce"> Lettuce
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="lime"> Lime
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="mint"> Mint
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="mushrooms"> Mushrooms
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="onion"> Onion
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="parsley"> Parsley
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="scallions"> Scallions
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="shallot"> Shallot
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="spinach"> Spinach
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="sweet potato"> Sweet Potato
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="tomato"> Tomato
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="zucchini"> Zucchini
+        </label>
+    </div>
+</div>
+
+<div class="category">
+    <h3>Proteins</h3>
+    <div class="ingredient-list">
+        <label class="ingredient-item">
+            <input type="checkbox" value="black beans"> Black Beans
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="cannellini beans"> Cannellini Beans
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="chicken"> Chicken
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="chickpeas"> Chickpeas
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="cod"> Cod
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="edamame"> Edamame
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="eggs"> Eggs
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="lentils"> Lentils
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="salmon"> Salmon
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="tofu"> Tofu
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="turkey"> Turkey
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="white fish"> White Fish
+        </label>
+    </div>
+</div>
+
+<div class="category">
+    <h3>Dairy</h3>
+    <div class="ingredient-list">
+        <label class="ingredient-item">
+            <input type="checkbox" value="feta cheese"> Feta Cheese
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="goat cheese"> Goat Cheese
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="greek yogurt"> Greek Yogurt
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="milk"> Milk
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="parmesan cheese"> Parmesan Cheese
+        </label>
+    </div>
+</div>
+
+<div class="category">
+    <h3>Grains & Legumes</h3>
+    <div class="ingredient-list">
+        <label class="ingredient-item">
+            <input type="checkbox" value="barley"> Barley
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="breadcrumbs"> Breadcrumbs
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="brown rice"> Brown Rice
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="bulgur wheat"> Bulgur Wheat
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="farro"> Farro
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="oats"> Oats
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="pasta"> Pasta
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="quinoa"> Quinoa
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="tortilla"> Tortilla
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="whole wheat buns"> Whole Wheat Buns
+        </label>
+    </div>
+</div>
+
+<div class="category">
+    <h3>Fruits</h3>
+    <div class="ingredient-list">
+        <label class="ingredient-item">
+            <input type="checkbox" value="apple"> Apple
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="banana"> Banana
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="berries"> Berries
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="cranberries"> Cranberries
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="mango"> Mango
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="pear"> Pear
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="raisins"> Raisins
+        </label>
+    </div>
+</div>
+
+<div class="category">
+    <h3>Nuts & Seeds</h3>
+    <div class="ingredient-list">
+        <label class="ingredient-item">
+            <input type="checkbox" value="almonds"> Almonds
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="chia seeds"> Chia Seeds
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="flaxseed"> Flaxseed
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="pecans"> Pecans
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="pine nuts"> Pine Nuts
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="walnuts"> Walnuts
+        </label>
+    </div>
+</div>
+
+<div class="category">
+    <h3>Other</h3>
+    <div class="ingredient-list">
+        <label class="ingredient-item">
+            <input type="checkbox" value="balsamic glaze"> Balsamic Glaze
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="balsamic vinegar"> Balsamic Vinegar
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="broth"> Broth
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="coconut milk"> Coconut Milk
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="coconut oil"> Coconut Oil
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="cornstarch"> Cornstarch
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="cumin"> Cumin
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="honey"> Honey
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="kombu"> Kombu
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="maple syrup"> Maple Syrup
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="miso paste"> Miso Paste
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="nori"> Nori
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="nutritional yeast"> Nutritional Yeast
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="oil"> Oil
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="olives"> Olives
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="oregano"> Oregano
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="paprika"> Paprika
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="rice vinegar"> Rice Vinegar
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="sesame oil"> Sesame Oil
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="soy sauce"> Soy Sauce
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="spices"> Spices
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="tahini"> Tahini
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="turmeric"> Turmeric
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="vanilla extract"> Vanilla Extract
+        </label>
+        <label class="ingredient-item">
+            <input type="checkbox" value="wakame"> Wakame
+        </label>
+    </div>
+</div>
+                    </div>
+                </div>
+                
+                <button class="find-recipes-btn" id="find-recipes-btn">Find Recipes</button>
+            </aside>
+
+            <!-- Recipe Results -->
+            <main class="recipe-results">
+                <div class="results-header" >
+                    <h2>Suggested Recipes</h2>
+                    <div class="sort-options">
+                        <select id="sort-select">
+                            <option value="match">Sort by: Best Match</option>
+                            <option value="time">Sort by: Cooking Time</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="recipe-grid-container" style="max-height: 800px; overflow-y: auto;">
+                    <div class="recipe-grid" id="recipe-grid">
+                        <!-- Recipe cards will be dynamically inserted here -->
+                    </div>
+                </div>
+            </main>
+            
+            <!-- Recipe Modal (hidden by default) -->
+            <div class="recipe-modal" id="recipe-modal">
+                <div class="modal-content">
+                    <button class="close-modal" id="close-modal">&times;</button>
+                    <h2 class="modal-title" id="modal-title"></h2>
+                    <div class="modal-body">
+                        <div class="modal-image">
+                            <img id="modal-image" src="" alt="Recipe">
+                        </div>
+                        <div class="modal-details">
+                            <div class="detail-item">
+                                <span class="detail-label">Prep Time:</span>
+                                <span class="detail-value" id="prep-time"></span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">Cook Time:</span>
+                                <span class="detail-value" id="cook-time"></span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">Servings:</span>
+                                <span class="detail-value" id="servings"></span>
+                            </div>
+                        </div>
+                        <div class="ingredients-list">
+                            <h3>Ingredients</h3>
+                            <ul id="modal-ingredients"></ul>
+                        </div>
+                        <div class="instructions">
+                            <h3>Instructions</h3>
+                            <ol id="modal-instructions"></ol>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<footer class="footer--shimmer">
+    <div class="footer-content">
+        <div class="footer-section">
+            <div class="shiny-text">
+                <h3>Savory Sphere</h3>
+            </div>
+            <p>Transform your ingredients into global culinary adventures with our intelligent recipe matching system.</p>
+            <div class="social-links">
+                <a href="#" class="social-icon"><i class="fa-brands fa-facebook" style="color: #81c04b;"></i></a>
+                <a href="#" class="social-icon"><i class="fa-brands fa-instagram" style="color: #7fbf4b;"></i></a>
+                <a href="#" class="social-icon"><i class="fa-brands fa-pinterest" style="color: #83c14b;"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-twitter" style="color: #83c14b;"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-youtube" style="color: #83c14b;"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-tiktok" style="color: #83c14b;"></i></a>
+            </div>
+        </div>
+        <div class="footer-section">
+            <div class="shiny-text">
+                <h4>Explore</h4>
+            </div>
+            <ul>
+                <li><a href="#"><span class="shiny-link">Recipes</span></a></li>
+                <li><a href="#"><span class="shiny-link">Articles</span></a></li>
+                <li><a href="#"><span class="shiny-link">Diet Recipes</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="shiny-text">
+            <p>&copy; 2023 Savory Sphere. All rights reserved. | <a href="#"><span class="shiny-link">Privacy Policy</span></a> | <a href="#"><span class="shiny-link">Terms of Service</span></a></p>
+        </div>
+    </div>
+    <div class="shimmer-overlay"></div>
+</footer>
+
+    <script src="assets/health.js"></script>
+    <script src="assets/app.js"></script>
+</body>
+</html>

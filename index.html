@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SavorySphere</title>
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+                <header> 
+            <div class="head-left">
+                <img src="img/Vegetable@1-790x646.png" alt="SavorySphere Logo" class="logo">
+                <h1 class="site-title">SavorySphere</h1>
+            </div>
+            
+            <button class="menu-button">☰</button>
+            
+            <nav class="head-right">
+                <a href="index.html" class="active" >Home</a>
+                <a href="myfridge.html" >My Fridge</a>
+                <a href="articles.html">Articles</a>
+                <a href="healthy.html">Healthy Bites</a>
+            </nav>
+        </header>
+
+        <section id="home" class="hero-section">
+            <div class="hero-video-container">
+                <video loop autoplay muted playsinline class="hero-video">
+                    <source src="img/8844504-uhd_4096_2160_24fps.mp4" type="video/mp4">
+                    Your browser does not support HTML5 video.
+                </video>
+                <div class="hero-overlay"></div>
+            </div>
+            <div class="hero-content">
+                <h1 class="hero-title">REDEFINE YOUR COOKING</h1>
+                <p class="hero-subtitle">Discover recipes based on what's in your fridge</p>
+                <a href="myfridge.html" class="hero-cta">Explore Now</a>
+            </div>
+        </section>
+        <section class="about-section">
+    <h1>Welcome to SavorySphere</h1>
+    <h2>Where Your Fridge Meets the World's Flavors</h2>
+    <p>No more food waste—just global culinary magic. Select your ingredients, and we'll suggest authentic recipes from every corner of the planet.</p>
+    
+    <div class="dishes-carousel">
+        <div class="carousel-track">
+            <!-- First set of images (visible) -->
+            <div class="carousel-slide">
+                <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Italian Pasta">
+            </div>
+            <div class="carousel-slide">
+                <img src="https://images.unsplash.com/photo-1565557623262-b51c2513a641?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Japanese Sushi">
+            </div>
+            <div class="carousel-slide">
+                <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Indian Curry">
+            </div>
+            <div class="carousel-slide">
+                <img src="https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="French Cuisine">
+            </div>
+            <div class="carousel-slide">
+                <img src="https://images.unsplash.com/photo-1563245372-f21724e3856d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60" alt="Mexican Tacos">
+            </div>
+            
+            <!-- Duplicate images for infinite loop effect -->
+            <div class="carousel-slide">
+                <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Italian Pasta">
+            </div>
+            <div class="carousel-slide">
+                <img src="https://images.unsplash.com/photo-1565557623262-b51c2513a641?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Japanese Sushi">
+            </div>
+            <div class="carousel-slide">
+                <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Indian Curry">
+            </div>
+        </div>
+    </div>
+</section>
+<section class="how-section">
+    <h2>How It Works</h2>
+    <div class="how-cards">
+        <!-- Card 1 -->
+        <div class="how-card shine-effect">
+            <div class="card-image">
+                <img src="https://images.unsplash.com/photo-1606787366850-de6330128bfc" alt="Ingredients selection">
+            </div>
+            <div class="card-content">
+                <h3>1. Pick Your Ingredients</h3>
+                <p>Check off what's in your fridge or pantry—from leftover chicken to exotic spices. Our system works with whatever you have available.</p>
+            </div>
+        </div>
+        
+        <!-- Card 2 -->
+        <div class="how-card shine-effect">
+            <div class="card-image">
+                <img src="https://images.unsplash.com/photo-1498837167922-ddd27525d352" alt="Globe spinning">
+            </div>
+            <div class="card-content">
+                <h3>2. Spin the Globe</h3>
+                <p>Our smart algorithm matches your items to <strong>196+ recipes across 50+ cuisines</strong>, suggesting perfect dishes you can make right now.</p>
+            </div>
+        </div>
+        
+        <!-- Card 3 -->
+        <div class="how-card shine-effect">
+            <div class="card-image">
+                <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c" alt="Cooking food">
+            </div>
+            <div class="card-content">
+                <h3>3. Cook & Explore</h3>
+                <p>Get step-by-step guides with cultural insights, prep times, and dietary tags (vegan, gluten-free, etc.) to expand your culinary horizons.</p>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="choose-section">
+    <h2>Why Savory Sphere Stands Out</h2>
+    <div class="choose-cards">
+        <!-- Card 1 -->
+        <div class="choose-card shine-effect">
+            <div class="choose-image">
+                <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Global Cuisine">
+            </div>
+            <div class="choose-content">
+                <h3>Truly Global Recipes</h3>
+                <p>Not just "Italian" or "Asian"—discover <strong>regional specialties</strong> like Nigerian Jollof Rice or Peruvian Lomo Saltado.</p>
+            </div>
+        </div>
+        
+        <!-- Card 2 -->
+        <div class="choose-card shine-effect">
+            <div class="choose-image">
+                <img src="https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="No Ads">
+            </div>
+            <div class="choose-content">
+                <h3>No Ads, No Signups</h3>
+                <p>Built by students for pure utility—<strong>zero commercial clutter</strong> to distract from your cooking experience.</p>
+            </div>
+        </div>
+        
+        <!-- Card 3 -->
+        <div class="choose-card shine-effect">
+            <div class="choose-image">
+                <img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Fast Performance">
+            </div>
+            <div class="choose-content">
+                <h3>Lightweight & Fast</h3>
+                <p>Runs on any device with our clean HTML/CSS/JavaScript stack—<strong>no lag, just recipes</strong> when you need them.</p>
+            </div>
+        </div>
+    </div>
+</section>
+    </div>
+<footer class="footer--shimmer">
+    <div class="footer-content">
+        <div class="footer-section">
+            <div class="shiny-text">
+                <h3>Savory Sphere</h3>
+            </div>
+            <p>Transform your ingredients into global culinary adventures with our intelligent recipe matching system.</p>
+            <div class="social-links">
+                <a href="#" class="social-icon"><i class="fa-brands fa-facebook" style="color: #81c04b;"></i></a>
+                <a href="#" class="social-icon"><i class="fa-brands fa-instagram" style="color: #7fbf4b;"></i></a>
+                <a href="#" class="social-icon"><i class="fa-brands fa-pinterest" style="color: #83c14b;"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-twitter" style="color: #83c14b;"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-youtube" style="color: #83c14b;"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-tiktok" style="color: #83c14b;"></i></a>
+            </div>
+        </div>
+        <div class="footer-section">
+            <div class="shiny-text">
+                <h4>Explore</h4>
+            </div>
+            <ul>
+                <li><a href="#"><span class="shiny-link">Recipes</span></a></li>
+                <li><a href="#"><span class="shiny-link">Articles</span></a></li>
+                <li><a href="#"><span class="shiny-link">Diet Recipes</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="shiny-text">
+            <p>&copy; 2023 Savory Sphere. All rights reserved. | <a href="#"><span class="shiny-link">Privacy Policy</span></a> | <a href="#"><span class="shiny-link">Terms of Service</span></a></p>
+        </div>
+    </div>
+    <div class="shimmer-overlay"></div>
+</footer>
+    <script src="assets/app.js"></script>
+</body>
+</html>

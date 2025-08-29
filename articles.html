@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SavorySphere - Articles</title>
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header> 
+            <div class="head-left">
+                <img src="img/Vegetable@1-790x646.png" alt="SavorySphere Logo" class="logo">
+                <h1 class="site-title">SavorySphere</h1>
+            </div>
+            
+            <button class="menu-button">☰</button>
+            
+            <nav class="head-right">
+                <a href="index.html" >Home</a>
+                <a href="myfridge.html" >My Fridge</a>
+                <a href="articles.html" class="active">Articles</a>
+                <a href="healthy.html">Healthy Bites</a>
+            </nav>
+        </header>
+
+        <section id="home" class="hero-section">
+            <div class="hero-video-container">
+                <video loop autoplay muted playsinline preload="auto" class="hero-video">
+                    <source src="img/8851748-uhd_4096_2160_24fps.mp4" type="video/mp4">
+                </video>
+                <div class="hero-overlay"></div>
+            </div>
+            <div class="hero-content"> <h1 class="hero-title">THE SCIENCE BEHIND YOUR FRIDGE'S HIDDEN TREASURES</h1> 
+               <p class="hero-subtitle">Read our expert guide to understanding food preservation and flavor pairing</p> 
+              <a href="#article-section" class="hero-cta">Read the Full Article</a> 
+           </div>
+        </section>
+        
+        <div id="article-section"   class="articles-container">
+            <aside class="articles-sidebar">
+                <div class="sidebar-header">
+                    <h2>Filter Articles</h2>
+                </div>
+                
+                <div class="search-box">
+                    <input type="text" id="article-search" placeholder="Search articles...">
+                    <button id="search-article-btn">🔍</button>
+                </div>
+                
+                <div class="category-filters" >
+                    <h3>Categories</h3>
+                    <div class="filter-list" style="max-height: 700px; overflow-y: auto;">
+                        <label class="filter-item">
+                            <input type="checkbox" value="all" checked> All Categories
+                        </label>
+                        <label class="filter-item">
+                            <input type="checkbox" value="Cooking Tips"> Cooking Tips
+                        </label>
+                        <label class="filter-item">
+                            <input type="checkbox" value="Food Science"> Food Science
+                        </label>
+                        <label class="filter-item">
+                            <input type="checkbox" value="Seasonal Cooking"> Seasonal Cooking
+                        </label>
+                        <label class="filter-item">
+                            <input type="checkbox" value="Flavor Profiles"> Flavor Profiles
+                        </label>
+                        <label class="filter-item">
+                            <input type="checkbox" value="Sustainability"> Sustainability
+                        </label>
+                        <label class="filter-item">
+                            <input type="checkbox" value="Food Preservation"> Food Preservation
+                        </label>
+                    </div>
+                </div>
+                
+                <div class="sort-options">
+                    <h3>Sort By</h3>
+                    <select id="article-sort">
+                        <option value="newest">Newest First</option>
+                        <option value="oldest">Oldest First</option>
+                        <option value="readTime">Reading Time</option>
+                    </select>
+                </div>
+            </aside>
+
+            <main class="articles-results"  >
+                <div class="results-header" >
+                    <h2>Featured Articles</h2>
+                    <p class="results-count"><span id="articles-count">6</span> articles found</p>
+                </div>
+                
+                <div class="articles-grid" id="articles-grid" style="max-height: 700px; overflow-y: auto;">
+                    <!-- Article cards will be dynamically inserted here -->
+                </div>
+            </main>
+        </div>
+        
+        <!-- Article Modal (hidden by default) -->
+        <div class="article-modal" id="article-modal">
+            <div class="article-modal-content">
+                <button class="close-article-modal" id="close-article-modal">&times;</button>
+                <h2 class="article-modal-title" id="article-modal-title"></h2>
+                <div class="article-modal-meta">
+                    <span class="article-author" id="article-modal-author"></span>
+                    <span class="article-date" id="article-modal-date"></span>
+                    <span class="article-read-time" id="article-modal-read-time"></span>
+                    <span class="article-category" id="article-modal-category"></span>
+                </div>
+                <div class="article-modal-body">
+                    <div class="article-modal-image">
+                        <img id="article-modal-image" src="" alt="Article">
+                    </div>
+                    <div id="article-modal-content" class="article-content">
+                        <!-- Article content will be inserted here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+<footer class="footer--shimmer">
+    <div class="footer-content">
+        <div class="footer-section">
+            <div class="shiny-text">
+                <h3>Savory Sphere</h3>
+            </div>
+            <p>Transform your ingredients into global culinary adventures with our intelligent recipe matching system.</p>
+            <div class="social-links">
+                <a href="#" class="social-icon"><i class="fa-brands fa-facebook" style="color: #81c04b;"></i></a>
+                <a href="#" class="social-icon"><i class="fa-brands fa-instagram" style="color: #7fbf4b;"></i></a>
+                <a href="#" class="social-icon"><i class="fa-brands fa-pinterest" style="color: #83c14b;"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-twitter" style="color: #83c14b;"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-youtube" style="color: #83c14b;"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-tiktok" style="color: #83c14b;"></i></a>
+            </div>
+        </div>
+        <div class="footer-section">
+            <div class="shiny-text">
+                <h4>Explore</h4>
+            </div>
+            <ul>
+                <li><a href="#"><span class="shiny-link">Recipes</span></a></li>
+                <li><a href="#"><span class="shiny-link">Articles</span></a></li>
+                <li><a href="#"><span class="shiny-link">Diet Recipes</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="shiny-text">
+            <p>&copy; 2023 Savory Sphere. All rights reserved. | <a href="#"><span class="shiny-link">Privacy Policy</span></a> | <a href="#"><span class="shiny-link">Terms of Service</span></a></p>
+        </div>
+    </div>
+    <div class="shimmer-overlay"></div>
+</footer>
+    
+    <script src="assets/articles.js"></script>
+    <script src="assets/app.js"></script>
+</body>
+</html>
